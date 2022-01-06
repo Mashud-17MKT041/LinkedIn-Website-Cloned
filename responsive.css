@@ -649,6 +649,10 @@
         font-size: 14px;
         left: 55%;
     }
+    
+    div#preloader-body span {
+        top: 55%;
+    }
 
 }
 
